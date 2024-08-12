@@ -2,6 +2,7 @@ library(tidyverse)
 library(metajam)
 
 # Set the paths
+# from dataset: https://doi.org/10.5063/F1N58JPP
 dataset_url <- "https://knb.ecoinformatics.org/knb/d1/mn/v2/object/urn%3Auuid%3A7fc6f6db-c5ea-426a-a743-1f2edafb43b8"
 data_path <- "~/github/api-practice2/"
 
